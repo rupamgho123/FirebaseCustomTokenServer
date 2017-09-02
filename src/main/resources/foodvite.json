@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fir-demoappfoodvite-927b5",
+  "private_key_id": "6241d393f7de2bb0163af36f37409efc05efa10d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcIORtIzEMg/iq\n7hjhvbBmEZu0s164VjmRbzpaHYDMe24THNIj7UtNw3bKEMAHKj7n8StTiI2hIXJU\nJTU48W2xsHz6nYySwlyqSYvitXYv+5Ri25LgF2+XeEhgBvNCiv/BZfnmplHnq0BJ\nmyeLGedFhYQ1j5FExxXxH8kjoOSfQIHkODonocFRUoJcEYzpthu/6epAC6TMVSq3\nzMxFMDV7zPEETW9TDCJa2vXfwuzXq4OzrbvtNx9ZoYmqrmuzSWiLot1m57qvoAnX\n4fXmfWg6wKu+asUEqZh0YbjESbl20TITgZjPv3tbww08+pVT4yqAqAo8ieaMH1ng\n0vx/WvKxAgMBAAECggEAAi6jgrL/OIGPtDPnvR/9my+b0YbASCtMWrAHTMMkzbbb\n7wB0H3RtnQSiYGijhnYcsvk39c7uy9W/11U9zTHyqo0g8g/JqzN0QB0PC3gl0r3d\ncRRIlUE+mgtgV5dBRyjSMk3OlF62vloyZ9T3VIZkKSCYnHcJPMDbmacsFIdnKqKi\nl0d9MkhU27y4rN5suNGO5tVGlvqW4wyP/cIusscDNu+lmnMpykov0Ejs/XcBmbra\nSpJVOAYo6m4rTZW4f6GEcAzIj6BUJ7r7ixbl7nk+oZfHDA4bekmk25LQYJ14KNUu\nvOYC7i7jPLiDNUni9uFsp7YluM5dpO9qCPSuR5+7EQKBgQDK79IiXkP8SBiXz7Na\nHgiO3ZZ/lERo+RUIpTn7tcK578fJO9B8TyJ0OtD4rvl+gRlcsYStpTIcs2Mu74OO\nifUemvVkbV4Q4QP0kgB7Dk2uqoIFmMmKSOjL3nkml4kXaISvNT0wbpYrOhagckqX\ntxjtqIYxqAan4emy912XvDD44wKBgQDE89FHXICqL+lP1UiDfwXxYtXQVECQU/ae\noQ7GOxtRo9B2kX8eNRtl43cv8i9r5Yk0BnUhvrDnp54CfEdY3vv0iptqU9bcGKHg\nJwPZe6FxOX4w0FiyPR3S8+d3gTJxV7SYpQtxRLSnb/8rcy9ca35Zl6Di7wnTipzJ\ndqxicP6+WwKBgHpFuyeoAnB8BA1cQKUYmXFzA53E+N8CzPCTlPcbUcN0PLz7xCdS\nCuFbGtProTnekShvcRCrCyGN2EHMYEi+yKjzFs22s8mZuide3NlICfgmlgbHQw+F\n1HYZiod9IEWxXNiwTDjlOKe87SspEdaNpIB1XL2IjtISZRvGvWaSJjOfAoGAR7B0\nGeSa1NfRtgRte6fN0vpl14oDYkWdvEnlpdQ38nSNWctGGQm9qk2swaAHEOAhG/XJ\nxvmxTPEfO8pe8gNgdLfLMF3KFJ1Gtt+csBonPp5tx3jfACns5C9xrncxlD4Xd4SD\n8LvQgi3rFLa9o4dhG11s642U5xJKVa7DuqVkpIcCgYATW3SFThXy5euDI3HO6ev/\n7/84nuoZ+hU16gSqhrb7ZR0n8w+/YEXvzGRSdFuGDVD2E16kJm+jPePNmZeKtTdZ\nXdVWWp4e+OM+L2JOfQhopzutgHwKEEju3UZyfR7eTh/QIAfqhg/yP+eI2PVkbV/W\nS8ypoEgYk4ryEJwK52lFWA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5tt51@fir-demoappfoodvite-927b5.iam.gserviceaccount.com",
+  "client_id": "108534939978628980835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5tt51%40fir-demoappfoodvite-927b5.iam.gserviceaccount.com"
+}
